@@ -5,7 +5,7 @@ yandex.projekt
 
 Мои учебные проекты:
 
-## 1. [Исследование: Музыка больших городов](https://github.com/KalistratovAlexanderS/yandex.projekt/blob/main/pr1_music_gh.ipynb)
+## 1. [Исследование: Музыка больших городов.](https://github.com/KalistratovAlexanderS/yandex.projekt/blob/main/pr1_music_gh.ipynb)
 Задача: выдвинуты гипотезы:  
 ```
 Музыку в двух городах — Москве и Санкт-Петербурге — слушают в разном режиме;
@@ -16,7 +16,7 @@ yandex.projekt
 *Инструменты: pandas.*
 
 ____
-## 2. Исследование надежности заёмщиков.
+## 2. [Исследование надежности заёмщиков.](https://github.com/KalistratovAlexanderS/yandex.projekt/blob/main/pr2_bank_gh.ipynb)
 Задача: Оценка влияния различных характеристик заемщиков на факт погашения кредита в срок. 
 ```
 Выполнено: Данные очищены от выбросов, дубликатов и пропусков, проведена лемматизация. 
