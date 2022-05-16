@@ -5,7 +5,7 @@ yandex.projekt
 
 Мои учебные проекты:
 
-## 1. [Исследование: Музыка больших городов.](https://github.com/KalistratovAlexanderS/yandex.projekt/blob/main/1_users_music.ipynb)
+## 1. [Исследования музыкальных предпочтений пользователей Москвы и Петербурга на примере Яндекс.Музыка.](https://github.com/KalistratovAlexanderS/yandex.projekt/blob/main/1_users_music.ipynb)
 Задача: выдвинуты гипотезы:  
 ```
 Музыку в двух городах — Москве и Санкт-Петербурге — слушают в разном режиме;
