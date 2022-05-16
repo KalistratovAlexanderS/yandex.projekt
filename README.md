@@ -91,7 +91,7 @@ ____
 Задача: Подготовка и построение Дашборд
 ```
 Выполнено: при помощи дата-пайплайны, скриптов, агрегирующих таблицы и Tableau Public.
-Подгтовлен дашборд  и презенатция для  менеджера продкукта.
+Подгтовлен дашборд  и презентация для  менеджера продукта.
 ```
 *Инструменты: Python, Pandas,Tableau, Redash
-## 9.1. [презенатция для  менеджера продкукта](https://github.com/KalistratovAlexanderS/yandex.projekt/blob/main/9_%D0%94%D0%B0%D1%88%D0%B1%D0%BE%D1%80%D0%B4%20%D0%B4%D0%BB%D1%8F%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%94%D0%B7%D0%B5%D0%BD.pdf)
+## [презентация для  менеджера продукта](https://github.com/KalistratovAlexanderS/yandex.projekt/blob/main/9_%D0%94%D0%B0%D1%88%D0%B1%D0%BE%D1%80%D0%B4%20%D0%B4%D0%BB%D1%8F%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%94%D0%B7%D0%B5%D0%BD.pdf)
