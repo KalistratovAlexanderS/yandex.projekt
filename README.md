@@ -98,8 +98,8 @@ ____
 
 ## Выпускной проект
 
-## [анализ потребления  продуктов банка] (https://github.com/KalistratovAlexanderS/yandex.projekt/blob/main/Bank_pro.ipynb)
+## [анализ потребления  продуктов банка](https://github.com/KalistratovAlexanderS/yandex.projekt/blob/main/Bank_pro.ipynb)
 
-## [проверка результатов провдения АВ-теста]  (https://github.com/KalistratovAlexanderS/yandex.projekt/blob/main/ab_test.ipynb)
+## [проверка результатов провдения АВ-теста](https://github.com/KalistratovAlexanderS/yandex.projekt/blob/main/ab_test.ipynb)
 
-## [SQL запросы к данным на удленном сервере] (https://github.com/KalistratovAlexanderS/yandex.projekt/blob/main/sql.ipynb)
+## [SQL запросы к данным на удленном сервере](https://github.com/KalistratovAlexanderS/yandex.projekt/blob/main/sql.ipynb)
