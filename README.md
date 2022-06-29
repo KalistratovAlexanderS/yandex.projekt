@@ -95,3 +95,11 @@ ____
 ```
 *Инструменты: Python, Pandas,Tableau, Redash
 ## [презентация для  менеджера продукта](https://github.com/KalistratovAlexanderS/yandex.projekt/blob/main/9_%D0%94%D0%B0%D1%88%D0%B1%D0%BE%D1%80%D0%B4%20%D0%B4%D0%BB%D1%8F%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%94%D0%B7%D0%B5%D0%BD.pdf)
+
+## Выпускной проект
+
+## [анализ потребления  продуктов банка] (https://github.com/KalistratovAlexanderS/yandex.projekt/blob/main/Bank_pro.ipynb)
+
+## [проверка результатов провдения АВ-теста]  (https://github.com/KalistratovAlexanderS/yandex.projekt/blob/main/ab_test.ipynb)
+
+## [SQL запросы к данным на удленном сервере] (https://github.com/KalistratovAlexanderS/yandex.projekt/blob/main/sql.ipynb)
