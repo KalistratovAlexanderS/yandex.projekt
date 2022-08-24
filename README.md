@@ -1,5 +1,9 @@
 yandex.projekt
-
+## [Диплон аналитик данных]
+(https://github.com/KalistratovAlexanderS/yandex.projekt/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82_SQL_stepik-63054-4b5afbe.pdf)
+(https://github.com/KalistratovAlexanderS/yandex.projekt/blob/main/Kalistratov%20Alexander_20222%D0%A6%D0%9F%D0%94%D0%9000499.pdf)
+## [Дополнительный Сертификат SQL]
+(https://github.com/KalistratovAlexanderS/yandex.projekt/blob/main/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC_%D0%9A%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D0%B2%20%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_20222%D0%A6%D0%9F%D0%94%D0%9000499.pdf)
 
 # Репозиторий проектов из курса "Аналитик данных (Data Analyst)" Яндекс.Практикум
 
@@ -104,3 +108,5 @@ ____
 ## [проверка результатов проведения АВ-теста](https://github.com/KalistratovAlexanderS/yandex.projekt/blob/main/ab_test.ipynb)
 
 ## [SQL-запросы к данным на удаленном сервере](https://github.com/KalistratovAlexanderS/yandex.projekt/blob/main/sql.ipynb)
+
+
