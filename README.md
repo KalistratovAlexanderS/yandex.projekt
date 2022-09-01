@@ -12,7 +12,7 @@ yandex.projekt
 
 Мои учебные проекты:
 
-## 1. [Исследования музыкальных предпочтений пользователей Москвы и Петербурга на примере Яндекс.Музыка.](https://github.com/KalistratovAlexanderS/yandex.projekt/blob/main/1_users_music.ipynb)
+## 1. [Исследования музыкальных предпочтений пользователей Москвы и Петербурга на примере Яндекс.Музыка.](https://github.com/KalistratovAlexanderS/yandex.projekt/blob/main/1pr_yandex_music/1_users_music.ipynb)
   
 ```
 Задача: Исследования музыкальных предпочтений пользователей
@@ -24,7 +24,7 @@ yandex.projekt
 *Инструменты: pandas.*
 
 ____
-## 2. [Исследование надежности заёмщиков.](https://github.com/KalistratovAlexanderS/yandex.projekt/blob/main/2_Client_Bank.ipynb)
+## 2. [Исследование надежности заёмщиков.](https://github.com/KalistratovAlexanderS/yandex.projekt/blob/main/2pr_Client_Bank/2_Client_Bank.ipynb)
 Задача: Оценка влияния различных характеристик заемщиков на факт погашения кредита в срок. 
 ```
 Выполнено: Данные очищены от выбросов, дубликатов и пропусков, проведена лемматизация. 
@@ -33,7 +33,7 @@ ____
 ```
 *Инструменты: pandas, pymystem3, nltk.stem, collections.*
 ____
-## 3. [Исследование объявлений о продаже квартир.](https://github.com/KalistratovAlexanderS/yandex.projekt/blob/main/3_Analysis_sales_avito.ipynb)
+## 3. [Исследование объявлений о продаже квартир.](https://github.com/KalistratovAlexanderS/yandex.projekt/blob/main/3pr_Analysis_sales_avito/3_Analysis_sales_avito.ipynb)
 Задача: Анализ признаков влияющих на стоимость квартир в регионе. 
 ```
 Выполнено: Данные сохранены, пропуски заполнены, в том числе с применением случайных величин в диапазоне 
@@ -43,7 +43,7 @@ ____
 ```
 *Инструменты: pandas, pyplot, seaborn.*
 ____
-## 4. [Определение перспективного тарифа для телеком компании.](https://github.com/KalistratovAlexanderS/yandex.projekt/blob/main/4_Analysis_users_tarif.ipynb)
+## 4. [Определение перспективного тарифа для телеком компании.](https://github.com/KalistratovAlexanderS/yandex.projekt/blob/main/4pr_Analysis_users_tarif/4_Analysis_users_tarif.ipynb)
 Задача: Анализ статистики использования услуг мобильного оператора клиентами с целью определения приоритетного тарифа для фирмы. 
 ```
 Выполнено: Рассмотрены два тарифных плана нижней и верхней ценовой категории. 
